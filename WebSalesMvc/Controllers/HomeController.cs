@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net.Mail;
 using System.Threading.Tasks;
 using WebSalesMvc.Models;
+using WebSalesMvc.Models.ViewModels;
 
 namespace WebSalesMvc.Controllers
 {

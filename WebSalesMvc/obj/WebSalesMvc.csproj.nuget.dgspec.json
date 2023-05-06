@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos Studio\\SalesWebMVC\\WebSalesMvc\\WebSalesMvc.csproj": {}
+    "C:\\Projetos Studio\\SalesWebMvc\\WebSalesMvc\\WebSalesMvc.csproj": {}
   },
   "projects": {
-    "C:\\Projetos Studio\\SalesWebMVC\\WebSalesMvc\\WebSalesMvc.csproj": {
+    "C:\\Projetos Studio\\SalesWebMvc\\WebSalesMvc\\WebSalesMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos Studio\\SalesWebMVC\\WebSalesMvc\\WebSalesMvc.csproj",
+        "projectUniqueName": "C:\\Projetos Studio\\SalesWebMvc\\WebSalesMvc\\WebSalesMvc.csproj",
         "projectName": "WebSalesMvc",
-        "projectPath": "C:\\Projetos Studio\\SalesWebMVC\\WebSalesMvc\\WebSalesMvc.csproj",
+        "projectPath": "C:\\Projetos Studio\\SalesWebMvc\\WebSalesMvc\\WebSalesMvc.csproj",
         "packagesPath": "C:\\Users\\Letic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos Studio\\SalesWebMVC\\WebSalesMvc\\obj\\",
+        "outputPath": "C:\\Projetos Studio\\SalesWebMvc\\WebSalesMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Letic\\AppData\\Roaming\\NuGet\\NuGet.Config",
