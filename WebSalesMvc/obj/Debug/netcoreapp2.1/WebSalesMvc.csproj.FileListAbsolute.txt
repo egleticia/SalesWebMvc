@@ -1,4 +1,3 @@
-C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csproj.AssemblyReference.cache
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.AssemblyInfoInputs.cache
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.AssemblyInfo.cs
@@ -22,6 +21,7 @@ C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.R
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.RazorTargetAssemblyInfo.cs
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.dll
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.pdb
+C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csproj.AssemblyReference.cache
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\WebSalesMvc.deps.json
@@ -34,4 +34,8 @@ C:\Projetos Studio\SalesWebMvc\WebSalesMvc\bin\Debug\netcoreapp2.1\WebSalesMvc.V
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.Views.pdb
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.genruntimeconfig.cache
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\WebSalesMvc.csproj.CopyComplete
+C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Create.cshtml.g.cs
+C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Delete.cshtml.g.cs
+C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Details.cshtml.g.cs
+C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Edit.cshtml.g.cs
 C:\Projetos Studio\SalesWebMvc\WebSalesMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs
